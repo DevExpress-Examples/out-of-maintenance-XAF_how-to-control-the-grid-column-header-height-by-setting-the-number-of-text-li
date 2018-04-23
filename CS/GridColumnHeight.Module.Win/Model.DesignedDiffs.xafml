@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+	<SchemaModules>
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.ShowNavigationItemController" Version="9.1.4.0" />
+		<SchemaModule Name="DevExpress.ExpressApp.Win.SystemModule.ChooseSkinController" Version="9.1.4.0" IsNewNode="True" />
+		<SchemaModule Name="SystemWindowsFormsModule" Version="9.1.4.0" IsNewNode="True" />
+	</SchemaModules>
+	<Views>
+		<ListView ID="Invoice_Lines_ListView" HeaderRows="2" />
+		<ListView ID="Invoice_ListView" HeaderRows="2" />
+		<ListView ID="Invoice_LookupListView" HeaderRows="3" />
+	</Views>
+</Application>
