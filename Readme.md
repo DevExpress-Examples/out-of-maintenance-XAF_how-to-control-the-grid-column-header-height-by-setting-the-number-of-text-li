@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [GridHeaderHeightController.cs](./CS/GridColumnHeight.Module.Win/GridHeaderHeightController.cs) (VB: [GridHeaderHeightController.vb](./VB/GridColumnHeight.Module.Win/GridHeaderHeightController.vb))
+* [GridHeaderHeightHelper.cs](./CS/GridColumnHeight.Module.Win/GridHeaderHeightHelper.cs) (VB: [GridHeaderHeightHelper.vb](./VB/GridColumnHeight.Module.Win/GridHeaderHeightHelper.vb))
+* [Model.DesignedDiffs.xafml](./CS/GridColumnHeight.Module.Win/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/GridColumnHeight.Module.Win/Model.DesignedDiffs.xafml))
+* [WinModule.cs](./CS/GridColumnHeight.Module.Win/WinModule.cs) (VB: [WinModule.vb](./VB/GridColumnHeight.Module.Win/WinModule.vb))
+<!-- default file list end -->
 # How to control the grid column header height by setting the number of text lines
 
 
